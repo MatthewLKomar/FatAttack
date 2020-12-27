@@ -1,4 +1,3 @@
 # FatAttack
-
-Developed with Unreal Engine 4
-Built with blood, sweat, tears, and most improtantly, love for the GCS Unreal Engine STUCO. 
+Made with some blood, a sprinkle of sweat, lots of tears, and most importantly, a scoop of love. 
+Intended for use in the GCS Unreal Engine STUCO. 

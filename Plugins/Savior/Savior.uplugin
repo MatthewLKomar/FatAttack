@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "3.5.7",
+	"FriendlyName": "SAVIOR",
+	"Description": "Savior is a C++ tool designed to extend Unreal's save system, providing a more powerful serialization framework for complex Unreal projects.",
+	"Category": "SYNAPTECH",
+	"CreatedBy": "(C) Bruno Xavier Leite",
+	"CreatedByURL": "https://brunoxavierleite.wordpress.com",
+	"DocsURL": "https://forums.unrealengine.com/showthread.php?88541-Plugin-Auto-Save-Game",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/a3412bb96a304648a8989da784994084",
+	"SupportURL": "mailto:bruno_xavier_@msn.com",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "Savior3",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Android",
+				"Win64",
+				"Win32",
+				"Linux",
+				"Mac",
+				"IOS"
+			]
+		},
+		{
+			"Name": "Savior3Editor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		}
+	]
+}

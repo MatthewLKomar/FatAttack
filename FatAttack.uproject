@@ -25,6 +25,11 @@
 		{
 			"Name": "DisasterRecoveryClient",
 			"Enabled": true
+		},
+		{
+			"Name": "Savior",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/a3412bb96a304648a8989da784994084"
 		}
 	]
 }
